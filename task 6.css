@@ -1,0 +1,39 @@
+.d1{
+    background-color: rgb(93, 103, 76);
+    background-size: auto;
+    border-radius: 20%;
+    color: rgb(226, 234, 188);
+    padding: 3%;
+}
+body{
+    background-image: url(1.jpg);
+}
+table {
+    width: 100%;
+    margin-top: 50px;
+    border-collapse: separate;
+    padding: 20px;
+    border-radius: 10%;
+    font-size: 18px;
+}
+tr {
+    background-color: rgb(226, 234, 188);
+}
+th {
+    padding: 10px;
+    text-align: center;
+    color: rgb(45, 50, 41);
+    border: 4px solid rgb(93, 103, 76);
+    border-radius: 40%;
+}
+a{
+    color: rgb(45, 50, 41);
+    text-decoration: none;
+    margin: 5%;
+    padding: 5%;
+
+}
+h2{
+    color: rgb(93, 103, 76);
+    font-size: xx-large;
+}

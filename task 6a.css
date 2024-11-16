@@ -1,0 +1,55 @@
+.content {
+    display: flex;
+    align-items: center;
+    color:  rgb(93, 103, 76);
+}
+.reader-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+body{
+    background-color: rgb(226, 234, 188);
+}
+ul{
+    color:  rgb(93, 103, 76);
+}
+h2{
+    color:  rgb(93, 103, 76);
+}
+h1{
+    color:  rgb(93, 103, 76);
+}
+.d3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: rgb(226, 234, 188);
+    border-radius: 10px;
+}
+
+.surah-item {
+    width: 30%;
+    min-width: 250px;
+    text-align: center;
+    background-color:rgb(93, 103, 76); 
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: rgba(224, 232, 213, 0.728);
+}
+.surah-link {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+}
+.surah-name {
+    font-size: 18px;
+    font-weight: bold;
+    color: #e5ead6;
+    transition: color 0.3s ease;
+}
+

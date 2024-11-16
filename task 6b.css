@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(226, 234, 188);
+}
+h1{
+    color:  rgb(93, 103, 76);
+}
+button{
+    background-color:  rgb(93, 103, 76);
+    border-radius: 30%;
+    padding: 1%;
+}
+audio{
+    background-color:  rgb(93, 103, 76);
+    border-radius: 30%;
+    padding: 1%;
+    color:  rgb(226, 234, 188);
+}
